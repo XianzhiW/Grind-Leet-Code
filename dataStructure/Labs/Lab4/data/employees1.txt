@@ -1,0 +1,4 @@
+Briggs CSCI 10026
+Scharstein CSCI 10123
+Schumer MATH 10210
+Linderman CSCI 10276
